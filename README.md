@@ -49,7 +49,7 @@ Currently, I'm diving deeper into Python, data science, and web development, exp
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/50/medium filled/linkedin.svg" />
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/50/medium/filled/linkedin.svg" />
     </a>
     
 </div>
