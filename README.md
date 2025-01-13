@@ -10,14 +10,14 @@
 <p align="center">
 "Hi there! 👋 I'm a Computer Engineering graduate with a strong foundation in software development and a passion for creating impactful solutions. I've completed internships at Skymute Technology Pvt. Ltd., Oasis Infobyte, and CodSoft, where I gained extensive experience in Android development, creating numerous projects using XML, Java, and Kotlin. 
 
-Currently, I'm diving deeper into Python, data science, and web development, exploring new skills and technologies to expand my                 expertise. I'm excited to collaborate on meaningful projects and bring innovative ideas to life!"
+Currently, I'm diving deeper into Python, data science, and web development, exploring new skills and technologies to expand my expertise. I'm excited to collaborate on meaningful projects and bring innovative ideas to life!"
 </p>
 
 ---
 
 <h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,angular,python,django,flask,mongodb,mysql,git,github,pandas,numpy,matplotlib,powerbi" />
+    <img src="https://skillicons.dev/icons?i=android,xml,kotlin,java,web" />
 </div>
 
 ---
