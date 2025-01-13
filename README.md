@@ -48,16 +48,10 @@ Currently, I'm diving deeper into Python, data science, and web development, exp
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/shreyash-ingle-" target="_blank">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/50/medium/filled/linkedin.svg" />
-    </a>
-    
+    <a href="www.linkedin.com/in/rupesh-zade" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   
 </div>
-
----
-
-<h2 align="center">🎓 Certifications 🎓</h2>
-- Google Cybersecurity Professional Certificate (2024).
 
 ---
 
