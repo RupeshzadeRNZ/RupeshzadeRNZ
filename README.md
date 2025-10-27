@@ -8,9 +8,13 @@
 
 <h2 align="center">🌟 About Me 🌟</h2>
 <p align="center">
-"Hi there! 👋 I'm a Computer Engineering graduate with a strong foundation in software development and a passion for creating impactful solutions. I've completed internships at Skymute Technology Pvt. Ltd., Oasis Infobyte, and CodSoft, where I gained extensive experience in Android development, creating numerous projects using XML, Java, and Kotlin. 
+Hi there! 👋 I’m a Computer Engineering graduate (2024) with a strong foundation in software development and a passion for building practical, impactful solutions.
 
-Currently, I'm diving deeper into Python, data science, and web development, exploring new skills and technologies to expand my expertise. I'm excited to collaborate on meaningful projects and bring innovative ideas to life!"
+I’ve completed internships at Skymute Technology Pvt. Ltd., Oasis Infobyte, and CodSoft, where I developed Android applications using XML, Java, and Kotlin.
+
+Currently, I’m working at NiaWebBrand as a Web and WordPress Developer, where I design and optimize responsive websites. Alongside my current role, I’m transitioning into Python and backend development with a focus on Django, MySQL, and API integration.
+
+I’m always eager to learn, explore new technologies, and collaborate on projects that solve real-world problems and make a positive impact. 🚀
 </p>
 
 ---
