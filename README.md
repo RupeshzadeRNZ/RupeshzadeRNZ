@@ -63,8 +63,8 @@ I’m always eager to learn, explore new technologies, and collaborate on projec
   </a>
 
   <!-- Portfolio / Website -->
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://rupeshzade.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-f0a529?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
   <!-- Instagram -->
