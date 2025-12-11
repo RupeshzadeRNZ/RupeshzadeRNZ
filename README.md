@@ -54,14 +54,26 @@ I’m always eager to learn, explore new technologies, and collaborate on projec
 
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
-<div align="center">
-    <a href="www.linkedin.com/in/rupesh-zade" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-	    <a href="[www.linkedin.com/in/rupesh-zade](https://rupeshzade.netlify.app/)" target="_blank">
-        <img src="https://img.shields.io/badge/web" />
-   
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rupesh-zade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Portfolio / Website -->
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/your_instagram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 </div>
+
 
 ---
 
