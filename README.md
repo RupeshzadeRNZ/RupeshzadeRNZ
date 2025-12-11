@@ -57,6 +57,9 @@ I’m always eager to learn, explore new technologies, and collaborate on projec
 <div align="center">
     <a href="www.linkedin.com/in/rupesh-zade" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+	    <a href="[www.linkedin.com/in/rupesh-zade](https://rupeshzade.netlify.app/)" target="_blank">
+        <img src="https://img.shields.io/badge/web" />
    
 </div>
 
