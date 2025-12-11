@@ -68,7 +68,7 @@ I’m always eager to learn, explore new technologies, and collaborate on projec
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="https://www.instagram.com/rupesh_zade1?igsh=aGF3ZWRoc2N6NjQ1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
